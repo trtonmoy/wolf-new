@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Permanent Marker"; /* Choose a unique name for your font */
+  src: url("/font/PermanentMarker.ttf") format("woff2"),
+    url("/font/PermanentMarker.ttf") format("woff");
+  /* You can add more file formats here if needed (e.g., .ttf, .eot) */
+}
